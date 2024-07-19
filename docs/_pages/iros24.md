@@ -1,7 +1,7 @@
 ---
 permalink: /iros24
 layout: page
-title: Submitted to IROS24
+title: IROS24
 usemathjax: true
 ---
 ## Learning a Shape-Conditioned Agent for Purely Tactile In-Hand Manipulation of Various Objects
