@@ -2,7 +2,7 @@ theme: minima
 markdown: kramdown
 
 title: Learning Purely Tactile In-Hand Manipulation
-author: "{leon.sievers,johannes.pitz,lennart.roestel,berthold.baeuml}@dlr.de"
+author: "{leon.sievers,johannes.pitz,lennart.roestel,berthold.baeuml}@tum.de"
 
 header_pages:
   - index.md
@@ -11,6 +11,7 @@ header_pages:
   - _pages/humanoids23.md
   - _pages/iros24.md
   # - _pages/humanoids24.md
+  # - _pages/corl24.md
   - _pages/aidx-lab.md
 
 include:
