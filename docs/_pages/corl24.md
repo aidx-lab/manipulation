@@ -11,5 +11,5 @@ This site complements our demo proposal [**Intelligent Dextrous Manipulation: Yo
 
 ## Capabilities shown in an ICRA 2024 video submission
 <p align="center">
-<iframe width="746" height="420" src="https://youtu.be/CZBMXDM1_Tk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="746" height="420" src="https://www.youtube.com/embed/0VvSIvtHTq0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
