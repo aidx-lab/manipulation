@@ -11,7 +11,7 @@ IROS 2024 by
 
 [Full Paper](https://arxiv.org/abs/2407.18834){:target="_blank"} / [Video](https://www.youtube.com/watch?v=aldTETxDbcU){:target="_blank"}
 
-![Sequence](assets/imgs/iros24/website.jpg)
+[![Sequence](assets/imgs/iros24/website.jpg)](iros24)
 
 ---
 
@@ -21,7 +21,7 @@ Humanoids 2023 by
 
 [Full Paper](https://arxiv.org/abs/2311.04060){:target="_blank"} / [Video](https://www.youtube.com/watch?v=P8jSDg5TA_E&ab_channel=DLRRM){:target="_blank"}
 
-![Sequence](assets/imgs/humanoids23/motiv_pic.png)
+[![Sequence](assets/imgs/humanoids23/motiv_pic.png)](_pages/humanoids23.md)
 
 ---
 
@@ -31,7 +31,7 @@ ICRA 2023 by
 
 [Full Paper](https://arxiv.org/abs/2303.04705){:target="_blank"} / [Video](https://www.youtube.com/watch?v=0VvSIvtHTq0){:target="_blank"}
 
-![Sequence](assets/imgs/icra23/sequence.png)
+[![Sequence](assets/imgs/icra23/sequence.png)](manipulation/icra23)
 
 ---
 ### [Learning Purely Tactile In-Hand Manipulation with a Torque-Controlled Hand](_pages/icra22.md)
