@@ -1,7 +1,7 @@
 ---
 permalink: /humanoids24
 layout: page
-title: Submitted to Humanoids24
+title: Humanoids 2024
 usemathjax: true
 ---
 ## Learning Time-Optimal and Speed-Adjustable Tactile In-Hand Manipulation

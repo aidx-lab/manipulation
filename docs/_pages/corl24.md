@@ -1,7 +1,7 @@
 ---
 permalink: /corl24
 layout: page
-title: CoRL24
+title: CoRL 2024
 usemathjax: true
 ---
 ## Intelligent Dextrous Manipulation: You can teach an old bot new tricks

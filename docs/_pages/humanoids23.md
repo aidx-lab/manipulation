@@ -1,7 +1,7 @@
 ---
 permalink: /humanoids23
 layout: page
-title: Humanoids23
+title: Humanoids 2023
 usemathjax: true
 ---
 ## Estimator-Coupled Reinforcement Learning for Robust Purely Tactile In-Hand Manipulation
