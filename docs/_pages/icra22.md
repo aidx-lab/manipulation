@@ -9,8 +9,6 @@ usemathjax: true
 This site complements our ICRA 2022 paper [**Learning Purely Tactile In-Hand Manipulation with a Torque-Controlled Hand**](https://arxiv.org/abs/2204.03698){:target="_blank"} by
 [Leon Sievers\*](https://www.linkedin.com/in/leon-sievers/){:target="_blank"}, [Johannes Pitz\*](https://www.linkedin.com/in/johannes-pitz/){:target="_blank"} and [Berthold Bäuml](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ){:target="_blank"}.    
 
-Here we are providing more information on the robotic hardware as well as the parameters used during training.
-
 <p align="center">
 <iframe width="746" height="420" src="https://www.youtube.com/embed/ilDlO94lm1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
