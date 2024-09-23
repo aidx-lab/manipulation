@@ -11,7 +11,7 @@ This site complements our paper [**Dextrous Tactile In-Hand Manipulation Using a
 
 
 <p align="center">
-<iframe width="746" height="420" src="https://www.youtube.com/embed/0VvSIvtHTq0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youtube-video" width="746" height="420" src="https://www.youtube.com/embed/0VvSIvtHTq0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 ## Abstract

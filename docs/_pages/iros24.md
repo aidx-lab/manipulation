@@ -10,7 +10,7 @@ This site complements our paper [**Learning a Shape-Conditioned Agent for Purely
 [Johannes Pitz\*](https://www.linkedin.com/in/johannes-pitz/){:target="_blank"}, [Lennart Röstel\*](https://scholar.google.com/citations?user=BPUd5h0AAAAJ&hl=en&oi=sra), [Leon Sievers](https://www.linkedin.com/in/leon-sievers/){:target="_blank"}, [Darius Burschka](https://scholar.google.com/citations?hl=en&user=y-MzVoUAAAAJ){:target="_blank"} and [Berthold Bäuml](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ){:target="_blank"}.
 
 <p align="center">
-<iframe width="746" height="420" src="https://www.youtube.com/embed/aldTETxDbcU?si=mP_s1jbsa338V81j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youtube-video" width="746" height="420" src="https://www.youtube.com/embed/aldTETxDbcU?si=mP_s1jbsa338V81j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 ## Abstract
