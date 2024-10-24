@@ -27,21 +27,12 @@ Reorienting diverse objects with a multi-fingered hand is a challenging task. Cu
 
 Cite this paper as:
 
-    @misc{Pitz2024
-          title={Learning a Shape-Conditioned Agent for Purely Tactile In-Hand Manipulation of Various Objects}, 
-          author={Johannes Pitz and Lennart Röstel and Leon Sievers and Darius Burschka and Berthold Bäuml},
-          year={2024},
-          eprint={2407.18834},
-          archivePrefix={arXiv},
-          primaryClass={cs.RO},
-          url={https://arxiv.org/abs/2407.18834}, 
+    @inproceedings{Pitz2024,
+        title={Learning a Shape-Conditioned Agent for Purely Tactile In-Hand Manipulation of Various Objects},
+        booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+        author={Pitz, Johannes and Röstel, Lennart and Sievers, Leon and Burschka, Darius and Bäuml, Berthold},
+        year={2024}
     }
-
-<!-- @inproceedings{Pitz2024,
-    title={Learning a Shape-Conditioned Agent for Purely Tactile In-Hand Manipulation of Various Objects},
-    booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS},
-    author={Pitz, Johannes and Röstel, Lennart and Sievers, Leon and Burschka, Darius Bäuml, Berthold},
-    year={2024}} -->
 
 ---
 
