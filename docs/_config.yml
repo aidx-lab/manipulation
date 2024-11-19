@@ -10,7 +10,7 @@ header_pages:
   - _pages/icra23.md
   - _pages/humanoids23.md
   - _pages/iros24.md
-  # - _pages/humanoids24.md
+  - _pages/humanoids24.md
   # - _pages/corl24.md
   - _pages/aidx-lab.md
 

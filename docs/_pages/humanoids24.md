@@ -6,8 +6,31 @@ usemathjax: true
 ---
 ## Learning Time-Optimal and Speed-Adjustable Tactile In-Hand Manipulation
 
-This site complements our paper [**Learning Time-Optimal and Speed-Adjustable Tactile In-Hand Manipulation**](){:target="_blank"} by
-[Johannes Pitz](https://www.linkedin.com/in/johannes-pitz/){:target="_blank"}, [Lennart Röstel](https://scholar.google.com/citations?user=BPUd5h0AAAAJ&hl=en&oi=sra), [Leon Sievers](https://www.linkedin.com/in/leon-sievers/){:target="_blank"} and [Berthold Bäuml](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ){:target="_blank"} submitted to the 2024 IEEE-RAS International Conference on Humanoid Robots.
+This site complements our paper [**Learning Time-Optimal and Speed-Adjustable Tactile In-Hand Manipulation**](TODOOOOOOO){:target="_blank"} by
+[Johannes Pitz](https://www.linkedin.com/in/johannes-pitz/){:target="_blank"}, [Lennart Röstel](https://scholar.google.com/citations?user=BPUd5h0AAAAJ&hl=en&oi=sra), [Leon Sievers](https://www.linkedin.com/in/leon-sievers/){:target="_blank"} and [Berthold Bäuml](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ){:target="_blank"}.
+
+
+<!-- TODOOOOOO -->
+<p align="center">
+<iframe class="youtube-video" width="746" height="420" src="https://www.youtube.com/embed/aldTETxDbcU?si=mP_s1jbsa338V81j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+## Abstract
+
+In-hand manipulation with multi-fingered hands is a challenging problem that recently became feasible with the advent of deep reinforcement learning methods. While most contributions to the task brought improvements in robustness and generalization, this paper addresses the critical performance measure of the speed at which an in-hand manipulation can be performed. We present reinforcement learning policies that can perform in-hand reorientation significantly faster than previous approaches for the complex setting of goal-conditioned reorientation in SO(3) with permanent force closure and tactile feedback only (i.e., using the hand's torque and position sensors). Moreover, we show how policies can be trained to be speed-adjustable, allowing for setting the average orientation speed of the manipulated object during deployment. To this end, we present suitable and minimalistic reinforcement learning objectives for time-optimal and speed-adjustable in-hand manipulation, as well as an analysis based on extensive experiments in simulation. We also demonstrate the zero-shot transfer of the learned policies to the real DLR-Hand II with a wide range of target speeds and the fastest dextrous in-hand manipulation without visual inputs.
+
+
+Cite this paper as:
+
+    @inproceedings{Pitz2024,
+        title={Learning Time-Optimal and Speed-Adjustable Tactile In-Hand Manipulation},
+        booktitle={IEEE-RAS International Conference on Humanoid Robots (Humanoids)},
+        author={Pitz, Johannes and Röstel, Lennart and Sievers, Leon and Bäuml, Berthold},
+        year={2024}
+    }
+
+---
+    
 
 ## Hyperparameters
 Below, we provide the learning hyperparameters used for training the purely tactile agent that were changed from our [previous work](iros24.md){:target="_blank"} to better work with the higher interaction frequency $$f_{\text{nn}} = 20Hz$$ and lower filter constant $$\tau = 0.2$$ reported in the paper.
