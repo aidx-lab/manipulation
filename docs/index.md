@@ -11,7 +11,7 @@ Humanoids 2024 by
 
 [Full Paper](TODO){:target="_blank"} / [Video](https://www.youtube.com/watch?v=Aj4xOSilkxQ){:target="_blank"}
 
-[![Sequence](assets/imgs/humanoids24/test.jpg)](iros24)
+[![Sequence](assets/imgs/humanoids24/test.jpg)](humanoids24)
 
 ---
 
