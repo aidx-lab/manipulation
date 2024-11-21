@@ -6,7 +6,7 @@ usemathjax: true
 ---
 ## Learning Time-Optimal and Speed-Adjustable Tactile In-Hand Manipulation
 
-This site complements our paper [**Learning Time-Optimal and Speed-Adjustable Tactile In-Hand Manipulation**](TODO){:target="_blank"} by
+This site complements our paper [**Learning Time-Optimal and Speed-Adjustable Tactile In-Hand Manipulation**](http://arxiv.org/abs/2411.13148){:target="_blank"} by
 [Johannes Pitz](https://www.linkedin.com/in/johannes-pitz/){:target="_blank"}, [Lennart Röstel](https://scholar.google.com/citations?user=BPUd5h0AAAAJ&hl=en&oi=sra), [Leon Sievers](https://www.linkedin.com/in/leon-sievers/){:target="_blank"} and [Berthold Bäuml](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ){:target="_blank"}.
 
 
