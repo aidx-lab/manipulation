@@ -9,7 +9,7 @@ For more information, please refer to one of the papers below.
 Humanoids 2024 by
 [Johannes Pitz](https://www.linkedin.com/in/johannes-pitz/){:target="_blank"}, [Lennart Röstel](https://scholar.google.com/citations?user=BPUd5h0AAAAJ&hl=en&oi=sra), [Leon Sievers](https://www.linkedin.com/in/leon-sievers/){:target="_blank"}, and [Berthold Bäuml](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ){:target="_blank"}.
 
-[Full Paper](TODO){:target="_blank"} / [Video](https://www.youtube.com/watch?v=Aj4xOSilkxQ){:target="_blank"}
+[Full Paper](http://arxiv.org/abs/2411.13148){:target="_blank"} / [Video](https://www.youtube.com/watch?v=Aj4xOSilkxQ){:target="_blank"}
 
 [![Sequence](assets/imgs/humanoids24/test.jpg)](humanoids24)
 
