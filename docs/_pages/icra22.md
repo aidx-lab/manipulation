@@ -82,7 +82,7 @@ We are using [PyBullet](https://pybullet.org/){:target="_blank"} as our rigid bo
 ## Learning
 
 
-We use the [Soft Actor-Critic](https://arxiv.org/abs/1812.05905v2){:target="_blank"} Alogirthm.
+We use the [Soft Actor-Critic](https://arxiv.org/abs/1812.05905v2){:target="_blank"} Algorithm.
 
 ### Reward Constants
 
