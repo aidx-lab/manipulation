@@ -5,6 +5,15 @@ title: Overview
 This site complements our research on purely tactile in-hand manipulation. 
 For more information, please refer to one of the papers below.
 
+### [Composing Dextrous Grasping and In-hand Manipulation via Scoring with a Reinforcement Learning Critic](_pages/icra25.md)
+ICRA 2025 by
+[Lennart Röstel\*](https://scholar.google.com/citations?user=BPUd5h0AAAAJ&hl=en&oi=sra), [Dominik Winkelbauer\*](https://scholar.google.com/citations?user=kduGd8wAAAAJ){:target="_blank"}, [Johannes Pitz](https://www.linkedin.com/in/johannes-pitz/){:target="_blank"},  [Leon Sievers](https://www.linkedin.com/in/leon-sievers/){:target="_blank"}, and [Berthold Bäuml](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ){:target="_blank"}.
+
+
+[![Sequence](assets/imgs/icra25/sequence_grasping.jpeg)](icra25)
+
+---
+
 ### [Learning Time-Optimal and Speed-Adjustable Tactile In-Hand Manipulation](_pages/humanoids24.md)
 Humanoids 2024 by
 [Johannes Pitz](https://www.linkedin.com/in/johannes-pitz/){:target="_blank"}, [Lennart Röstel](https://scholar.google.com/citations?user=BPUd5h0AAAAJ&hl=en&oi=sra), [Leon Sievers](https://www.linkedin.com/in/leon-sievers/){:target="_blank"}, and [Berthold Bäuml](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ){:target="_blank"}.
