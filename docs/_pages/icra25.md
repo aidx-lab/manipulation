@@ -1,7 +1,7 @@
 ---
 permalink: /icra25
 layout: page
-title: ICRA 2025
+title: "ICRA\u00A02025"
 usemathjax: true
 ---
 ## Composing Dextrous Grasping and In-hand Manipulation via Scoring with a Reinforcement Learning Critic

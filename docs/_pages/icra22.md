@@ -1,7 +1,7 @@
 ---
 permalink: /icra22
 layout: page
-title: ICRA 2022
+title: "ICRA\u00A02022"
 usemathjax: true
 ---
 ## Learning Purely Tactile In-Hand Manipulation with a Torque-Controlled Hand

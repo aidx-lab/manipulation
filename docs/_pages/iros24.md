@@ -1,7 +1,7 @@
 ---
 permalink: /iros24
 layout: page
-title: IROS 2024
+title: "IROS\u00A02024"
 usemathjax: true
 ---
 ## Learning a Shape-Conditioned Agent for Purely Tactile In-Hand Manipulation of Various Objects
