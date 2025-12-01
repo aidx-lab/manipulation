@@ -54,6 +54,16 @@ ICRA 2023 by
 
 ---
 
+### [Learning a State Estimator for Tactile In-Hand Manipulation](iros22)
+IROS 2022 by
+[Lennart Röstel](https://scholar.google.com/citations?user=BPUd5h0AAAAJ&hl=en&oi=sra), [Leon Sievers](https://www.linkedin.com/in/leon-sievers/){:target="_blank"}, [Johannes Pitz](https://www.linkedin.com/in/johannes-pitz/){:target="_blank"} and [Berthold Bäuml](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ){:target="_blank"}.
+
+[Full Paper](https://ieeexplore.ieee.org/document/9981730){:target="_blank"} / [Video](https://youtu.be/SaBwlCRnR3k){:target="_blank"}
+
+[![Demo](assets/imgs/iros22/iros22.jpg)](iros22)
+
+---
+
 ### [Learning Purely Tactile In-Hand Manipulation with a Torque-Controlled Hand](_pages/icra22.md)
 ICRA 2022 by
 [Leon Sievers\*](https://www.linkedin.com/in/leon-sievers/){:target="_blank"}, [Johannes Pitz\*](https://www.linkedin.com/in/johannes-pitz/){:target="_blank"} and [Berthold Bäuml](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ){:target="_blank"}.

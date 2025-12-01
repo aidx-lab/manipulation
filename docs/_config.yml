@@ -7,6 +7,7 @@ author: "{leon.sievers,johannes.pitz,lennart.roestel,dominik.winkelbauer,berthol
 header_pages:
   - index.md
   - _pages/icra22.md
+  - _pages/iros22.md
   - _pages/icra23.md
   - _pages/humanoids23.md
   - _pages/iros24.md
