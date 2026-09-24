@@ -11,6 +11,30 @@
   font-size: 1.59rem;
 }
 
+.site-header-inner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  column-gap: 1.5rem;
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
+  line-height: 1.4;
+
+  &::after {
+    content: none;
+  }
+
+  .site-title {
+    float: none;
+    padding-right: 0;
+  }
+}
+
+.site-links a {
+  color: $text-color;
+}
+
 .youtube-video {
   aspect-ratio: 16 / 9;
   width: 100%;

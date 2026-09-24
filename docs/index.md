@@ -5,6 +5,16 @@ title: Overview
 This site complements our research on purely tactile in-hand manipulation. 
 For more information, please refer to one of the papers below.
 
+### [Denoising Particle Filters: Learning State Estimation with Single-Step Objectives](https://aidx-lab.org/DnPF/){:target="_blank"}
+ICRA 2026 by
+[Lennart Röstel](https://scholar.google.com/citations?user=BPUd5h0AAAAJ&hl=en&oi=sra) and [Berthold Bäuml](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ){:target="_blank"}.
+
+[Full Paper](https://arxiv.org/abs/2602.19651){:target="_blank"}
+
+[![Tasks](assets/imgs/icra26/tasks.jpg){: style="display:block; margin:auto; width:75%;"}](https://aidx-lab.org/DnPF/){:target="_blank"}
+
+---
+
 ### [Composing Dextrous Grasping and In-hand Manipulation via Scoring with a Reinforcement Learning Critic](_pages/icra25.md)
 ICRA 2025 by
 [Lennart Röstel\*](https://scholar.google.com/citations?user=BPUd5h0AAAAJ&hl=en&oi=sra), [Dominik Winkelbauer\*](https://scholar.google.com/citations?user=kduGd8wAAAAJ){:target="_blank"}, [Johannes Pitz](https://www.linkedin.com/in/johannes-pitz/){:target="_blank"},  [Leon Sievers](https://www.linkedin.com/in/leon-sievers/){:target="_blank"}, and [Berthold Bäuml](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ){:target="_blank"}.
