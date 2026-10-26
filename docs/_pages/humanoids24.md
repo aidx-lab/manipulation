@@ -7,7 +7,7 @@ usemathjax: true
 ## Learning Time-Optimal and Speed-Adjustable Tactile In-Hand Manipulation
 
 This site complements our paper [**Learning Time-Optimal and Speed-Adjustable Tactile In-Hand Manipulation**](http://arxiv.org/abs/2411.13148){:target="_blank"} by
-[Johannes Pitz](https://www.linkedin.com/in/johannes-pitz/){:target="_blank"}, [Lennart Röstel](https://scholar.google.com/citations?user=BPUd5h0AAAAJ&hl=en&oi=sra), [Leon Sievers](https://www.linkedin.com/in/leon-sievers/){:target="_blank"} and [Berthold Bäuml](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ){:target="_blank"}.
+[Johannes Pitz](https://scholar.google.com/citations?hl=en&user=GK9X6NoAAAAJ&view_op=list_works&sortby=pubdate), [Lennart Röstel](https://scholar.google.com/citations?user=BPUd5h0AAAAJ&hl=en&oi=sra), [Leon Sievers](https://www.linkedin.com/in/leon-sievers/) and [Berthold Bäuml](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ).
 
 
 <!-- TODOOOOOO -->
@@ -33,7 +33,7 @@ Cite this paper as:
     
 
 ## Hyperparameters
-Below, we provide the learning hyperparameters used for training the purely tactile agent that were changed from our [previous work](iros24.md){:target="_blank"} to better work with the higher interaction frequency $$f_{\text{nn}} = 20Hz$$ and lower filter constant $$\tau = 0.2$$ reported in the paper.
+Below, we provide the learning hyperparameters used for training the purely tactile agent that were changed from our [previous work](iros24.md) to better work with the higher interaction frequency $$f_{\text{nn}} = 20Hz$$ and lower filter constant $$\tau = 0.2$$ reported in the paper.
 
 #### Policy Training Parameters 
 

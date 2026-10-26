@@ -7,7 +7,7 @@ usemathjax: true
 ## Learning Purely Tactile In-Hand Manipulation with a Torque-Controlled Hand
 
 This site complements our ICRA 2022 paper [**Learning Purely Tactile In-Hand Manipulation with a Torque-Controlled Hand**](https://arxiv.org/abs/2204.03698){:target="_blank"} by
-[Leon Sievers\*](https://www.linkedin.com/in/leon-sievers/){:target="_blank"}, [Johannes Pitz\*](https://www.linkedin.com/in/johannes-pitz/){:target="_blank"} and [Berthold Bäuml](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ){:target="_blank"}.    
+[Leon Sievers\*](https://www.linkedin.com/in/leon-sievers/), [Johannes Pitz\*](https://scholar.google.com/citations?hl=en&user=GK9X6NoAAAAJ&view_op=list_works&sortby=pubdate) and [Berthold Bäuml](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ).    
 
 <p align="center">
 <iframe class="youtube-video" width="746" height="420" src="https://www.youtube.com/embed/ilDlO94lm1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

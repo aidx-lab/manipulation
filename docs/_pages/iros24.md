@@ -7,7 +7,7 @@ usemathjax: true
 ## Learning a Shape-Conditioned Agent for Purely Tactile In-Hand Manipulation of Various Objects
 
 This site complements our paper [**Learning a Shape-Conditioned Agent for Purely Tactile In-Hand Manipulation of Various Objects**](https://arxiv.org/abs/2407.18834){:target="_blank"} by
-[Johannes Pitz\*](https://www.linkedin.com/in/johannes-pitz/){:target="_blank"}, [Lennart Röstel\*](https://scholar.google.com/citations?user=BPUd5h0AAAAJ&hl=en&oi=sra), [Leon Sievers](https://www.linkedin.com/in/leon-sievers/){:target="_blank"}, [Darius Burschka](https://scholar.google.com/citations?hl=en&user=y-MzVoUAAAAJ){:target="_blank"} and [Berthold Bäuml](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ){:target="_blank"}.
+[Johannes Pitz\*](https://scholar.google.com/citations?hl=en&user=GK9X6NoAAAAJ&view_op=list_works&sortby=pubdate), [Lennart Röstel\*](https://scholar.google.com/citations?user=BPUd5h0AAAAJ&hl=en&oi=sra), [Leon Sievers](https://www.linkedin.com/in/leon-sievers/), [Darius Burschka](https://scholar.google.com/citations?hl=en&user=y-MzVoUAAAAJ) and [Berthold Bäuml](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ).
 
 <p align="center">
 <iframe class="youtube-video" width="746" height="420" src="https://www.youtube.com/embed/aldTETxDbcU?si=mP_s1jbsa338V81j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

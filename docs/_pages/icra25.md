@@ -7,7 +7,7 @@ usemathjax: true
 ## Composing Dextrous Grasping and In-hand Manipulation via Scoring with a Reinforcement Learning Critic
 
 This site complements our paper [**Composing Dextrous Grasping and In-hand Manipulation via Scoring with a Reinforcement Learning Critic**](https://arxiv.org/abs/2505.13253){:target="_blank"} by
-[Lennart Röstel\*](https://scholar.google.com/citations?user=BPUd5h0AAAAJ&hl=en&oi=sra), [Dominik Winkelbauer\*](https://scholar.google.com/citations?user=kduGd8wAAAAJ), [Johannes Pitz](https://www.linkedin.com/in/johannes-pitz/){:target="_blank"},[Leon Sievers](https://www.linkedin.com/in/leon-sievers/){:target="_blank"} and [Berthold Bäuml](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ){:target="_blank"}.
+[Lennart Röstel\*](https://scholar.google.com/citations?user=BPUd5h0AAAAJ&hl=en&oi=sra), [Dominik Winkelbauer\*](https://scholar.google.com/citations?user=kduGd8wAAAAJ), [Johannes Pitz](https://scholar.google.com/citations?hl=en&user=GK9X6NoAAAAJ&view_op=list_works&sortby=pubdate),[Leon Sievers](https://www.linkedin.com/in/leon-sievers/) and [Berthold Bäuml](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ).
 
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L4dlVvxJLJU?si=sf2NZCbvFBZ4Up6C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
