@@ -19,6 +19,7 @@ ICRA 2026 by
 ICRA 2025 by
 [Lennart Röstel\*](https://scholar.google.com/citations?user=BPUd5h0AAAAJ&hl=en&oi=sra), [Dominik Winkelbauer\*](https://scholar.google.com/citations?user=kduGd8wAAAAJ){:target="_blank"}, [Johannes Pitz](https://www.linkedin.com/in/johannes-pitz/){:target="_blank"},  [Leon Sievers](https://www.linkedin.com/in/leon-sievers/){:target="_blank"}, and [Berthold Bäuml](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ){:target="_blank"}.
 
+[Full Paper](https://arxiv.org/abs/2505.13253){:target="_blank"} / [Video](https://www.youtube.com/watch?v=L4dlVvxJLJU){:target="_blank"}
 
 [![Sequence](assets/imgs/icra25/sequence_grasping.jpeg)](icra25)
 
